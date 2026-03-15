@@ -6,17 +6,17 @@ layout: default
 
 Staff AI Engineer building intelligent systems that solve real problems at scale.
 
-I specialize in **production AI/ML** — RAG architectures, LLM applications, ML pipelines, and the infrastructure that makes them reliable. I care deeply about craft, clarity, and making things better for people.
+I specialize in **production AI engineering** — agentic systems, LLM-powered products, ML pipelines, and the infrastructure that makes them reliable. I care deeply about craft, clarity, and making things better for people.
 
 ---
 
 ### What I'm Working On
 
-🤖 **AI Engineering** — Production RAG systems, agentic architectures, LLM-powered products
+🤖 **AI Engineering** — Agentic architectures, LLM orchestration, evaluation frameworks, intelligent product features at scale
 
-🛠️ **Open Source** — [AgentSkills](https://github.com/tylerbittner/agent-skills) contributor & author; [OpenClaw](https://github.com/openclaw/openclaw) contributor
+🛠️ **Open Source** — [LeetMonk](https://github.com/tylerbittner/leetmonk) (offline algo practice app), [agent-skills](https://github.com/tylerbittner/agent-skills), and contributions to [OpenClaw](https://github.com/openclaw/openclaw)
 
-🧠 **Always Learning** — Currently deep in algorithms & system design, exploring the frontier of AI tooling
+🧠 **Always Learning** — Deep in algorithms & system design, exploring the frontier of AI tooling
 
 ---
 
