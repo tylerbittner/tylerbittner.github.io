@@ -1,5 +1,3 @@
-theme: jekyll-theme-architect
-description: Data Engineering & <br/>Machine Learning Portfolio
-title: J. Tyler Bittner
-google_analytics: UA-196064149-1
-# IGNORES THIS BOOOOOO.  image: /images/tylerbittner.github.io-Social_preview.png
+theme: jekyll-theme-minimal
+title: Tyler Bittner
+description: Staff AI Engineer
